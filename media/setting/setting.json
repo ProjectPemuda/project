@@ -1,0 +1,23 @@
+{
+     "prefa":"#",
+     "multi":true,
+      
+     "nopref":false,
+     
+     "autoread": true,
+     
+     "autorecording": true, 
+     "autocomposing": false,
+  
+     "menu": "combine",      
+     "ownerName": "Chandra",
+     "owner": "6282252509320",
+     "targetpc": "6282252509320",
+     "botNumber": "6285643500930",
+     "fake": "Project Pemuda",
+     "fakebc": "Project Pemuda",
+     "botName": "Pemuda",
+     "dapapi": "MarcelApikey",
+     "xchillds": "XChillDs",
+     "gcount": 100     
+}
